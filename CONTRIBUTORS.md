@@ -1,3 +1,3 @@
 # Contributors for the project:
-Ethan
-David D'Amico
+* Ethan
+* David D'Amico
